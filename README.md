@@ -1,10 +1,9 @@
 # 🧠 Violence-Instigating Bangla Text Identification System
 
-This repository contains the implementation of a deep learning-based system for detecting **violence-inciting Bangla text**, developed as part of the Deep Learning course in the M.Sc.(Engg.) in the CSE program at Rangamati Science and Technology University. The project leverages the **Vio-Lens dataset** from **BLP Shared Task 1: Violence Inciting Text Detection (VITD)**.
+This repository contains the implementation of a deep learning-based system for detecting **violence-inciting Bangla text**, developed as part of the Deep Learning course for the **M.Sc. (Engg.)** degree in Computer Science and Engineering (CSE) at Rangamati Science and Technology University. The project leverages the **Vio-Lens dataset** from **BLP Shared Task 1: Violence Inciting Text Detection (VITD)**.
 
 ---
 
----
 
 ## 📘 Introduction
 
@@ -130,15 +129,19 @@ It will be Updated Soon...
 
 It will be Updated Soon...
 
+---
+
 ## 📊 Results
 
 It will be Updated Soon...
 
+---
 
 ## 📊 Acknowledgement 
 
-I would like to sincerely thank Md. Mynoddin, Assistant Professor, Department of Computer Science and Engineering, Rangamati Science and Technology University (RMSTU), for his invaluable guidance and support during the Deep Learning course of the 2nd Semester in the M.Sc. (Engineering) program. His encouragement was crucial to the completion of this work.
+I would like to sincerely thank **Md. Mynoddin, Assistant Professor, Department of Computer Science and Engineering, Rangamati Science and Technology University (RMSTU)**, for his invaluable guidance and support during the Deep Learning course of the 2nd Semester in the M.Sc. (Engineering) program. His encouragement was crucial to the completion of this work.
 
+---
 
 ## 📖 Citation
 
@@ -157,7 +160,12 @@ If you use this dataset or task in your work, please cite the following:
   address = "Singapore",
 }
 
+``` 
+
+### 📌 Task Description Paper
+
 ```bibtex
+
 @inproceedings{blp2023-overview-task1,
   title = "BLP-2023 Task 1: Violence Inciting Text Detection (VITD)",
   author= "Saha, Sourav and Junaed, Jahedul Alam and Saleki, Maryam and Rahouti, Mohamed and Mohammed, Nabeel and Amin, Mohammad Ruhul",
@@ -167,7 +175,7 @@ If you use this dataset or task in your work, please cite the following:
   publisher = "Association for Computational Linguistics",
   address = "Singapore",
 }
-
+```
 
 
 
@@ -177,13 +185,13 @@ If you use this dataset or task in your work, please cite the following:
 - [BanglaBERT Paper on arXiv](https://aclanthology.org/2022.findings-naacl.98/)
 - [BanglaBERT Paper on arXiv](https://aclanthology.org/2020.emnlp-main.207/)
 
-
+---
 
 ## 📬 Contact
 
 For questions or collaborations, feel free to reach out to:
 
-Prosenjit Chakraborty
-Dept. of CSE
-Rangamati Science and Technology University
-[Connect With Me](https://prosenjit-ch.github.io/Prosenjit-Chakraborty/#)
+- Prosenjit Chakraborty
+- Dept. of CSE
+- Rangamati Science and Technology University
+- [Connect With Me](https://prosenjit-ch.github.io/Prosenjit-Chakraborty/#)
