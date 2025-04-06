@@ -18,8 +18,9 @@ With the increasing misuse of social media to spread communal hatred and violenc
 - **Samples**:
   - Train: 2700
   - Dev: 1330
+  - Test: 2016
 - **Languages**: Bangla
-- **Max Text Length**: Up to 600 words
+
 
 ### 🔖 Label Definitions
 
