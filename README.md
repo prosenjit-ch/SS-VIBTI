@@ -115,7 +115,7 @@ These hybrid architectures combine the strengths of convolutional and recurrent 
 The final and best-performing model combines **BanglaBERT** with an extra **Multi-Layer Perceptron (MLP)** classification head.
 
 **Performance**:
-- **Macro-F1 (Development Set)**: 0.80
+- **Macro-F1 (Development Set)**: 0.76
 - **Macro-F1 (Test Set)**: 0.75
 
 ---
