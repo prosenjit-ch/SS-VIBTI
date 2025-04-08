@@ -62,7 +62,7 @@ This is a **multi-class classification task**.
 
 ## 🧹 Data Preprocessing
 
-- Lowercasing (where appropriate)
+
 - Removal of:
   - Emojis
   - Special characters
